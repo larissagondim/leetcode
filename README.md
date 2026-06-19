@@ -24,6 +24,6 @@ The repository is organized into different categories, such as `normal-problems`
 | Problem No. | Problem Title | Language | File |
 |-------------|---------------|----------|------|
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Python (Pandas) | [595.big-countries.py](30-days-of-pandas/595.big-countries.py) |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Python (Pandas) | [595.big-countries.py](30-days-of-pandas/1757.recyclable-and-low-fat-products.py) |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Python (Pandas) | [1757.recyclable-and-low-fat-products.py](30-days-of-pandas/1757.recyclable-and-low-fat-products.py) |
 
 
