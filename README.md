@@ -9,9 +9,9 @@ Current repo organization is something like this:
 
 ## Current progress
 
-- Normal Problems: 13 solutions
+- Normal Problems: 16 solutions
 - Algorithms: 1 implementation
-- 30 Days of Pandas: 3 solutions
+- 30 Days of Pandas: 5 solutions
 
 ### Normal Problems
 
@@ -25,6 +25,7 @@ Current repo organization is something like this:
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Python | [contains-duplicate.py](normal-problems/contains-duplicate.py) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Python | [power-of-two.py](normal-problems/power-of-two.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Python, C | [valid-anagram.py](normal-problems/valid-anagram.py), [valid-anagram.c](normal-problems/valid-anagram.c) |
+| — | [Mirror Distance](https://leetcode.com/) | Python, C | [mirror-distance.py](normal-problems/mirror-distance.py), [mirror-distance.c](normal-problems/mirror-distance.c) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | Python | [power-of-three.py](normal-problems/power-of-three.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Python | [fizzbuzz.py](normal-problems/fizzbuzz.py) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python | [fibonacciNumber.py](normal-problems/fibonacciNumber.py) |
@@ -45,6 +46,8 @@ Current repo organization is something like this:
 |-------------|---------------|----------|------|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) | Python (Pandas) | [183.customers-who-never-order.py](30-days-of-pandas/183.customers-who-never-order.py) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/description/) | Python (Pandas) | [595.big-countries.py](30-days-of-pandas/595.big-countries.py) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | Python (Pandas) | [1148.article-views-I.py](30-days-of-pandas/1148.article-views-I.py) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | Python (Pandas) | [1683.invalid-tweets.py](30-days-of-pandas/1683.invalid-tweets.py) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | Python (Pandas) | [1757.recyclable-and-low-fat-products.py](30-days-of-pandas/1757.recyclable-and-low-fat-products.py) |
 
 
