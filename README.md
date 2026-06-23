@@ -9,9 +9,11 @@ Current repo organization is something like this:
 
 ## Current progress
 
-- Normal Problems: 16 solutions
+- Normal Problems: 18 solutions
 - Algorithms: 1 implementation
-- 30 Days of Pandas: 5 solutions
+- 30 Days of Pandas: 6 solutions
+
+Last updated: June 23, 2026
 
 ### Normal Problems
 
@@ -33,6 +35,8 @@ Current repo organization is something like this:
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | Python | [running-sum-of-2d-array.py](normal-problems/running-sum-of-2d-array.py) |
 | — | [Modify Salary Column](https://leetcode.com/) | Python (Pandas) | [modify-columns.py](normal-problems/modify-columns.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | Python | [add-two-integers.py](normal-problems/add-two-integers.py) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Python | [sqrtx.py](normal-problems/sqrtx.py) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | Python | [count-negative-numbers.py](normal-problems/count-negative-numbers.py) |
 
 ### Algorithms
 
@@ -49,5 +53,6 @@ Current repo organization is something like this:
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | Python (Pandas) | [1148.article-views-I.py](30-days-of-pandas/1148.article-views-I.py) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | Python (Pandas) | [1683.invalid-tweets.py](30-days-of-pandas/1683.invalid-tweets.py) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | Python (Pandas) | [1757.recyclable-and-low-fat-products.py](30-days-of-pandas/1757.recyclable-and-low-fat-products.py) |
+| 1873 | [Calculate Employee Bonus](https://leetcode.com/problems/calculate-employee-bonus/) | Python | [1873.calculate-employee-bonus.py](30-days-of-pandas/1873.calculate-employee-bonus.py) |
 
 
