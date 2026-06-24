@@ -51,6 +51,7 @@ Last updated: June 23, 2026
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) | Python (Pandas) | [183.customers-who-never-order.py](30-days-of-pandas/183.customers-who-never-order.py) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/description/) | Python (Pandas) | [595.big-countries.py](30-days-of-pandas/595.big-countries.py) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | Python (Pandas) | [1148.article-views-I.py](30-days-of-pandas/1148.article-views-I.py) |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description) | Python (Pandas) | [1667.fix-names-in-a-table.py](30-days-of-pandas/1667.fix-names-in-a-table.py) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | Python (Pandas) | [1683.invalid-tweets.py](30-days-of-pandas/1683.invalid-tweets.py) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | Python (Pandas) | [1757.recyclable-and-low-fat-products.py](30-days-of-pandas/1757.recyclable-and-low-fat-products.py) |
 | 1873 | [Calculate Employee Bonus](https://leetcode.com/problems/calculate-employee-bonus/) | Python | [1873.calculate-employee-bonus.py](30-days-of-pandas/1873.calculate-employee-bonus.py) |
