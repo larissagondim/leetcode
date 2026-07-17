@@ -21,6 +21,8 @@ Last updated: June 23, 2026
 |-------------|---------------|-------------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Python | [two-sum.py](normal-problems/two-sum.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Python | [valid-parenthesis.py](normal-problems/valid-parenthesis.py) |
+| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Python | [remove-duplicates-from-sorted-array.py](normal-problems/remove-duplicates-from-sorted-array.py) |
+
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Python | [search-insert-position.py](normal-problems/search-insert-position.py) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | Python | [find-numbers-with-even-number-of-digits.py](normal-problems/find-numbers-with-even-number-of-digits.py) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | Python | [number-of-steps-to-reduce-a-number-to-zero.py](normal-problems/number-of-steps-to-reduce-a-number-to-zero.py) |
