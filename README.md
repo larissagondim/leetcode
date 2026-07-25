@@ -13,11 +13,11 @@ Each problem lives in its own folder with:
 
 ## Current progress
 
-- Normal Problems: 18 solutions
+- Normal Problems: 20 solutions
 - Algorithms: 1 implementation
 - 30 Days of Pandas: 7 solutions
 
-Last updated: July 18, 2026
+Last updated: July 25, 2026
 
 ### Normal Problems
 
@@ -27,6 +27,7 @@ Last updated: July 18, 2026
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Python | [valid-parentheses](normal-problems/valid-parentheses/) |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Python | [remove-duplicates-from-sorted-array](normal-problems/remove-duplicates-from-sorted-array/) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Python | [search-insert-position](normal-problems/search-insert-position/) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Python | [group-anagrams](normal-problems/group-anagrams/) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Python | [sqrtx](normal-problems/sqrtx/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Python | [contains-duplicate](normal-problems/contains-duplicate/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Python | [power-of-two](normal-problems/power-of-two/) |
